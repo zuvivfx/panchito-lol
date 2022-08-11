@@ -1,0 +1,28 @@
+.divs{
+    margin: 0 auto;
+    border-radius: 20px;
+}
+#uno{
+    width: 500px;
+    height: 60px;
+    background-color: #deb887;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom: #b5956a solid 10px;
+
+
+}
+#dos{
+    width: 550px;
+    height: 65px;
+    background-color: #a52b2a;
+    border-radius: 50px;
+}
+#tres{
+    width: 500px;
+    height: 60px;
+    border-top: #b5956a solid 10px;
+    background-color: #deb887;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
